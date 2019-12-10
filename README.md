@@ -136,3 +136,40 @@ API的选择可替代性平台多，由于目前产品属于初始阶段，没�
 ![识存学信息结构图](https://images.gitee.com/uploads/images/2019/1210/231957_094666c9_1648228.jpeg "识存学信息结构图.JPG")
   
 ### 代码应用：输入\输出
+
+- 文字识别
+
+ **输入** 
+
+![提取文本](https://images.gitee.com/uploads/images/2019/1210/234129_f48bd31e_1648228.png "提取文本1.png")
+
+![提取文本](https://images.gitee.com/uploads/images/2019/1210/234150_22bf2401_1648228.png "提取文本2.png")
+
+ **输出** 
+
+![文本](https://images.gitee.com/uploads/images/2019/1210/234232_c27f835b_1648228.png "提取文本输出.png")
+
+ **输入** 
+
+![手写文本](https://images.gitee.com/uploads/images/2019/1210/234309_fd4c5934_1648228.png "手写文本1.png")
+
+![手写文本](https://images.gitee.com/uploads/images/2019/1210/234327_0cc4197c_1648228.png "手写文本2.png")
+
+ **输出** 
+
+![输出](https://images.gitee.com/uploads/images/2019/1210/234356_9d555c48_1648228.png "手写输出.png")
+
+- 语音合成
+
+ **输入** 
+
+![语音合成](https://images.gitee.com/uploads/images/2019/1210/234432_5e14e8a6_1648228.png "语音合成代码1.png")
+
+![语音合成](https://images.gitee.com/uploads/images/2019/1210/234448_b099a146_1648228.png "语音合成代码2.png")
+
+![语音合成](https://images.gitee.com/uploads/images/2019/1210/234504_0c6b6bfc_1648228.png "语音合成代码3.png")
+
+
+ **输出** 
+
+![语音合成](https://images.gitee.com/uploads/images/2019/1210/234528_b6a6e698_1648228.png "语音合成输出.png")
