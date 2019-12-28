@@ -12,13 +12,23 @@
   position:absolute;
   z-index:0;
 }
-#u0_img {
+#u0_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:300px;
   height:449px;
+  background:inherit;
+  background-color:rgba(0, 102, 0, 0.858823529411765);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
 }
 #u0 {
   border-width:0px;
@@ -54,6 +64,7 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
+  color:#FFFFFF;
 }
 #u2 {
   border-width:0px;
@@ -65,6 +76,7 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
+  color:#FFFFFF;
 }
 #u3 {
   border-width:0px;
@@ -91,6 +103,7 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
+  color:#FFFFFF;
 }
 #u4 {
   border-width:0px;
@@ -102,6 +115,7 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
+  color:#FFFFFF;
 }
 #u5 {
   border-width:0px;
@@ -128,6 +142,7 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
+  color:#FFFFFF;
 }
 #u6 {
   border-width:0px;
@@ -139,6 +154,7 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
+  color:#FFFFFF;
 }
 #u7 {
   border-width:0px;

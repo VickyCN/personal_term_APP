@@ -12,13 +12,23 @@
   position:absolute;
   z-index:0;
 }
-#u116_img {
+#u116_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:300px;
   height:449px;
+  background:inherit;
+  background-color:rgba(0, 102, 0, 0.858823529411765);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
 }
 #u116 {
   border-width:0px;
@@ -37,13 +47,28 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u118_img {
+#u118_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:154px;
   height:46px;
+  background:inherit;
+  background-color:rgba(255, 204, 0, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:10px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
 }
 #u118 {
   border-width:0px;
@@ -66,13 +91,28 @@
   width:150px;
   word-wrap:break-word;
 }
-#u120_img {
+#u120_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:154px;
   height:45px;
+  background:inherit;
+  background-color:rgba(255, 51, 0, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:10px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
 }
 #u120 {
   border-width:0px;
@@ -95,13 +135,28 @@
   width:150px;
   word-wrap:break-word;
 }
-#u122_img {
+#u122_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:154px;
   height:41px;
+  background:inherit;
+  background-color:rgba(0, 51, 102, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:10px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
 }
 #u122 {
   border-width:0px;
@@ -255,6 +310,7 @@
   top:25px;
   width:32px;
   height:19px;
+  color:#FFFFFF;
 }
 #u135 {
   border-width:0px;
